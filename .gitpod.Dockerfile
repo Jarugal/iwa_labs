@@ -1,3 +1,4 @@
+FROM gitpod/workspace-mongodb
 image:
   file: .gitpod.Dockerfile
 tasks:
